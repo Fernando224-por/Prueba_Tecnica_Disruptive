@@ -1,0 +1,13 @@
+{
+  "name": "disruptive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercice.js",
+  "scripts": {
+    "start": "node exercice.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
