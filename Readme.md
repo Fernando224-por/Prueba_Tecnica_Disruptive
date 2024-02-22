@@ -1,7 +1,7 @@
 # Prueba Tecnica Disruptive
 
 > [!NOTE]
-> Para poder la prueba tecnica debes tener instalado
+> Para poder ejecutar el script de la prueba tecnica debes tener instalado
 >
 > [Node JS 20.8.1](https://nodejs.org/dist/v20.8.1/node-v20.8.1-x64.msi)
 
